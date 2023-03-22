@@ -26,6 +26,9 @@
     "cleanup": false,
     "yarn": false
   },
+  "peerDependencies": {
+    "prettier": "^2.8.0"
+  },
   "devDependencies": {
     "np": "^7.6.2"
   }
