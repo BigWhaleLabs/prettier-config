@@ -3,7 +3,7 @@
   "packageManager": "yarn@3.2.2",
   "description": "BWL Prettier configs which we're using across all of our apps",
   "version": "1.1.2",
-  "main": "index.js",
+  "main": ".prettierrc.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BigWhaleLabs/prettier-config.git"
